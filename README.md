@@ -22,6 +22,6 @@ $ cd F-L
 
 $ ls
 
-$ python Fauzi-TOD.py
+$ python fauzi-tod.py
 
 KALO ADA BUG LAPOR DAN JANGAN LUPA KASIH BINTANG
